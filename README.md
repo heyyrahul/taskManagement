@@ -3,6 +3,14 @@
 ## Introduction
 
 The Task Management API provides endpoints for managing tasks and user accounts. It allows users to perform CRUD operations (Create, Read, Update, Delete) on tasks and register/login to manage their tasks securely.
+### SwaggerUI
+  -  Visit http://localhost:8080/api-docs/
+  -  server url- https://odd-teal-alligator-toga.cyclic.app/
+  -  server url-https://taskmanagement-2-uinu.onrender.com/
+#### If you want to use above deployed Url on swagger use this extension 
+  -  Cors unblock -https://chromewebstore.google.com/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino
+  - follow this video for instruction -https://youtu.be/8berLeTjKDM
+ #### Add this , then activate the extension , render url may take a minute or two to start.
 
 ## Endpoints
 
@@ -111,6 +119,4 @@ Dependencies
 -   cors
 -   swagger-jsdoc
 -   swagger-ui-express
-### SwaggerUI
-  -  Visit http://localhost:8080/api-docs/
-  -  server url- https://odd-teal-alligator-toga.cyclic.app/
+
